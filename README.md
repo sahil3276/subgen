@@ -6,11 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="#installation">Install</a> •
-  <a href="#quick-start">Quick Start</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#tiers">Tiers</a> •
-  <a href="#demo">Demo</a> 
+  <a href="https://github.com/sahil3276/subgen/blob/main/README.md#-installation">Install</a> •
+  <a href="https://github.com/sahil3276/subgen/blob/main/README.md#-quick-start">Quick Start</a> •
+  <a href="https://github.com/sahil3276/subgen/blob/main/README.md#-usage">Usage</a> •
+  <a href="https://github.com/sahil3276/subgen/blob/main/README.md#-tiers-explained">Tiers</a> •
 </p>
 
 <p align="center">
@@ -46,8 +45,7 @@ During recon, you find subdomains like `dev.target.com` or `staging.target.com` 
 go install github.com/sahil3276/subgen@latest
 ```
 
-> Make sure `$GOPATH/bin` or `$HOME/go/bin` is in your `$PATH`.
-
+> Want to Install go? Here is [ONE-LINER](https://raw.githubusercontent.com/sahil3276/subgen/refs/heads/main/Go%20Install)
 ### From Source
 
 ```bash
@@ -236,20 +234,12 @@ Handles `.co.uk`, `.com.au`, `.co.in`, `.com.br`, and 30+ multi-part TLDs correc
 
 This tool is intended for **authorized security testing and reconnaissance only**. Always ensure you have proper authorization before scanning any target. The authors are not responsible for any misuse.
 
----
 
-## 🎬 Demo
-
-> 📹 **Watch the full walkthrough video:**
-
-
-
----
 
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/sahil3276/subgen/blob/main/LICENSE).
 
 ---
 
