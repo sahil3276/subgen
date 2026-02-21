@@ -10,6 +10,7 @@
   <a href="https://github.com/sahil3276/subgen/blob/main/README.md#-quick-start">Quick Start</a> •
   <a href="https://github.com/sahil3276/subgen/blob/main/README.md#-usage">Usage</a> •
   <a href="https://github.com/sahil3276/subgen/blob/main/README.md#-tiers-explained">Tiers</a> •
+  <a href="https://github.com/sahil3276/subgen/blob/main/README.md#-demo">Demo</a> 
 </p>
 
 <p align="center">
@@ -234,7 +235,16 @@ Handles `.co.uk`, `.com.au`, `.co.in`, `.com.br`, and 30+ multi-part TLDs correc
 
 This tool is intended for **authorized security testing and reconnaissance only**. Always ensure you have proper authorization before scanning any target. The authors are not responsible for any misuse.
 
+---
 
+## 🎬 Demo
+
+> 📹 **Watch the full walkthrough video:**
+
+
+https://github.com/user-attachments/assets/8be3cedc-d817-47bb-9ec5-e019b1d87c43
+
+---
 
 
 ## 📜 License
